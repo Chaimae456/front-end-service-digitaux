@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Roboto+Slab:wght@400&display=swap');
+*{
+  font-family: 'Oswald', sans-serif;
+}
+
+
+h1{
+  color:#20bead;
+}
+h2{
+  margin-bottom: 2rem !important;
+}
+
+button.btn.btn-success {
+  background-color: #20bead;
+  border-block-color: #20bead;
+}
+
+
+button.btn.btn-success:hover , button.btn.btn-success:active  , button.btn.btn-success:focus , .btn-check:focus+.btn-success, .btn-success:focus{
+  background-color: #ddf1ee;
+  border-block-color: #ddf1ee;
+  color: #31394e;
+}
+
+.images{
+  width:50% !important;
+  margin: 75px auto;
+}
+
+p{
+  font-family: 'Roboto Slab', serif;
+  line-height: 2;
+  color: #000;
+}

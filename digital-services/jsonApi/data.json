@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "fullname": "chaimae zarrrou",
+      "email": "zarrou.chaimae@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "chaimae",
+      "password": "123",
+      "email": "zarrou.chaimae@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "kaoutar",
+      "password": "123",
+      "email": "izikaoutar@gmail",
+      "id": 3
+    },
+    {
+      "name": "chaimae",
+      "password": "123",
+      "email": "izichaimae@gmail.com",
+      "id": 4
+    }
+  ]
+}
